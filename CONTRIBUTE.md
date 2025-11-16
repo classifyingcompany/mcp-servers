@@ -50,11 +50,11 @@ This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.
 ```bash
 # 1. Fork the repository on GitHub
 # 2. Clone your fork
-git clone https://github.com/YOUR_USERNAME/mcp-servers.git
+git clone https://github.com/classifyingcompany/mcp-servers.git
 cd mcp-servers
 
 # 3. Add upstream remote
-git remote add upstream https://github.com/campshure/mcp-servers.git
+git remote add upstream https://github.com/classifyingcompany/mcp-servers.git
 
 # 4. Create development environment
 python -m venv venv
@@ -520,9 +520,9 @@ await gmail_server.send_email(
 
 ### Communication Channels
 
-- **🐛 Issues**: [GitHub Issues](https://github.com/campshure/mcp-servers/issues)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/campshure/mcp-servers/discussions)
-- **📧 Email**: [contribute@campshure.com](mailto:contribute@campshure.com)
+- **🐛 Issues**: [GitHub Issues](https://github.com/classifyingcompany/mcp-servers/issues)
+- **💬 Discussions**: [GitHub Discussions](https://github.com/classifyingcompany/mcp-servers/discussions)
+- **📧 Email**: [contribute@campshure.com](mailto:wan@campshure.com)
 - **🌐 Website**: [CampShure.com](https://campshure.com)
 - **📱 Telegram**: [@MCPServersID](https://t.me/MCPServersID) (Indonesian community)
 
@@ -594,6 +594,6 @@ Your contributions make this project better for the entire Indonesian developer 
 
 ---
 
-**Questions?** Reach out to us at [contribute@campshure.com](mailto:contribute@campshure.com) or join our [Telegram community](https://t.me/MCPServersID).
+**Questions?** Reach out to us at [wan@campshure.com](mailto:wan@campshure.com) or join our [Telegram community](https://t.me/MCPServersID).
 
 **Happy Coding!** 🚀

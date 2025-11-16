@@ -37,7 +37,7 @@ A comprehensive collection of Model Context Protocol (MCP) servers for AI automa
 ### **1. Clone Repository**
 
 ```bash
-git clone https://github.com/your-username/mcp-servers.git
+git clone https://github.com/classifyingcompany/mcp-servers.git
 cd mcp-servers
 ```
 
@@ -354,9 +354,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support & Community
 
-- **🐛 Issues**: [GitHub Issues](https://github.com/your-username/mcp-servers/issues)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/your-username/mcp-servers/discussions)
-- **📧 Email**: [contact@campshure.com](mailto:contact@campshure.com)
+- **🐛 Issues**: [GitHub Issues](https://github.com/classifyingcompany/mcp-servers/issues)
+- **💬 Discussions**: [GitHub Discussions](https://github.com/classifyingcompany/mcp-servers/discussions)
+- **📧 Email**: [contact@campshure.com](mailto:wan@campshure.com)
 - **🌐 Website**: [CampShure.com](https://campshure.com)
 
 ## 🌟 Acknowledgments
